@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="TextView_Question">Constantinople is the largest city in Tukery?</string>
+    <string name="Correct">Correct</string>
+    <string name="InCorrect">InCorrect</string>
+
+
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="turnoff">Tắt đèn</string>
+    <string name="turnon">Bật đèn</string>
+    <string name="count">Số lần :</string>
+</resources>

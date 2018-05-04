@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Add_Image"
+        android:id="@+id/menu_Add"
+        android:icon="@drawable/ic_add"
+        app:showAsAction="withText|always" />
+    <item
+        android:title="Delete_Image"
+        android:id="@+id/menu_Delete"
+        android:icon="@drawable/ic_delete1"
+        app:showAsAction="withText|always" />
+    <item
+        android:title="Edit_Image"
+        android:id="@+id/menu_Edit"
+        android:icon="@drawable/ic_edit"
+        app:showAsAction="withText|always" />
+</menu>

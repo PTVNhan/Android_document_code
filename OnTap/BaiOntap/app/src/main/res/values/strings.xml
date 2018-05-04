@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="turnoff">Turn off</string>
+    <string name="turnon">Turn on</string>
+    <string name="count">count :</string>
+
+</resources>

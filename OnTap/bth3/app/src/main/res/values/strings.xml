@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">bth3</string>
+    <array name="Convert1">
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Centimeter</item>
+        <item>Micrometer</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+    </array>
+</resources>
